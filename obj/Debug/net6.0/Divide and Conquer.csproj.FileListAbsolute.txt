@@ -1,0 +1,15 @@
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\bin\Debug\net6.0\Divide and Conquer.exe
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\bin\Debug\net6.0\Divide and Conquer.deps.json
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\bin\Debug\net6.0\Divide and Conquer.runtimeconfig.json
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\bin\Debug\net6.0\Divide and Conquer.dll
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\bin\Debug\net6.0\Divide and Conquer.pdb
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\obj\Debug\net6.0\Divide and Conquer.csproj.AssemblyReference.cache
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\obj\Debug\net6.0\Divide and Conquer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\obj\Debug\net6.0\Divide and Conquer.AssemblyInfoInputs.cache
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\obj\Debug\net6.0\Divide and Conquer.AssemblyInfo.cs
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\obj\Debug\net6.0\Divide and Conquer.csproj.CoreCompileInputs.cache
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\obj\Debug\net6.0\Divide and Conquer.dll
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\obj\Debug\net6.0\refint\Divide and Conquer.dll
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\obj\Debug\net6.0\Divide and Conquer.pdb
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\obj\Debug\net6.0\Divide and Conquer.genruntimeconfig.cache
+C:\Users\raphy\Documents\GitHub\SWE\Divide and Conquer\obj\Debug\net6.0\ref\Divide and Conquer.dll
